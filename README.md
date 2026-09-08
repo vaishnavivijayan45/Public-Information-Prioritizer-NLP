@@ -5,17 +5,18 @@ Project Overview
 
 The Public Information Prioritizer is an NLP-based system designed to analyze public information such as news articles, emergency alerts, government notices, educational announcements, and promotional messages.
 
+ 
 The system determines:
 
--Information category
+     -Information category
 
--Crisis status
+     -Crisis status
 
--Crisis type
+     -Crisis type
+  
+     -Urgency level
 
--Urgency level
-
--Whether action is required
+     -Whether action is required
 
 -Whether the information is promotional
 
