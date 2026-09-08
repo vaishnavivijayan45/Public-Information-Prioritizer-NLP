@@ -22,7 +22,7 @@ The system determines:
 
   -Final priority level
 
-Objectives
+Objectives:
 
 1. Classify news articles into appropriate categories.
 2. Detect crisis-related information.
@@ -34,7 +34,7 @@ Objectives
 8. Compare different NLP and machine-learning approaches.
 
 
-Datasets
+Datasets:
 
 News Article Categories Dataset
 
@@ -51,7 +51,7 @@ File: news-article-categories.csv
 
 The title and body are combined for classification.
 
-Crisis Dataset
+Crisis Dataset:
 
 -File: crisis.csv
 
@@ -65,7 +65,7 @@ Crisis Dataset
 
 Due to repeated texts with inconsistent labels, a group-aware evaluation strategy was used.
 
-Technologies Used
+Technologies Used:
 
 -Python
 
@@ -89,7 +89,7 @@ Technologies Used
 
 -Rule-Based NLP
 
-Methodology
+Methodology:
 
 The project uses a hybrid NLP approach combining machine learning and rule-based techniques.
 
@@ -118,7 +118,7 @@ Rule-Based NLP:
 
 
 
-Results
+Results:
 
 -News Category Classification
 
@@ -132,7 +132,7 @@ Logistic Regression	        79.27%            	0.7849
 
 Selected Model: TF-IDF + Logistic Regression
 
-Crisis Type Classification
+Crisis Type Classification:
 
 -Accuracy: 100%
 
@@ -142,7 +142,7 @@ Crisis Type Classification
 
 
 
-Urgency ML Experiment
+Urgency ML Experiment:
 
 -Accuracy: 32.35%
 
@@ -176,7 +176,7 @@ Final Priority: Critical
 
 
 
-Limitations
+Limitations:
 
 -The crisis dataset contains repeated text with inconsistent urgency and relevance labels.
 
@@ -189,7 +189,7 @@ Limitations
 -Transformer-based models are not currently used.
 
 
-Future Scope
+Future Scope:
 
 -Use transformer models such as BERT.
 
