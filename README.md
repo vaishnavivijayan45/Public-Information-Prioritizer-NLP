@@ -8,19 +8,19 @@ The Public Information Prioritizer is an NLP-based system designed to analyze pu
  
 The system determines:
 
-     -Information category
+  -Information category
 
-     -Crisis status
+  -Crisis status
 
-     -Crisis type
+  -Crisis type
   
-     -Urgency level
+  -Urgency level
 
-     -Whether action is required
+  -Whether action is required
 
--Whether the information is promotional
+  -Whether the information is promotional
 
--Final priority level
+  -Final priority level
 
 Objectives
 
